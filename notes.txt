@@ -1,0 +1,5 @@
+connect react js app to blch and pair it to metamask
+smart contract on ethereum n/w using solidity
+send transaction on blch used for corwdfunding
+third web - web3 framework used to create release deploy web3 app
+a crowdfunding app to bring creative projects to life
